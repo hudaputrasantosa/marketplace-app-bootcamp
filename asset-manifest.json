@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marketplace-app-bootcamp/static/css/main.cbef2953.css",
+    "main.js": "/marketplace-app-bootcamp/static/js/main.672943ab.js",
+    "static/js/787.e0d4a4d9.chunk.js": "/marketplace-app-bootcamp/static/js/787.e0d4a4d9.chunk.js",
+    "index.html": "/marketplace-app-bootcamp/index.html",
+    "main.cbef2953.css.map": "/marketplace-app-bootcamp/static/css/main.cbef2953.css.map",
+    "main.672943ab.js.map": "/marketplace-app-bootcamp/static/js/main.672943ab.js.map",
+    "787.e0d4a4d9.chunk.js.map": "/marketplace-app-bootcamp/static/js/787.e0d4a4d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbef2953.css",
+    "static/js/main.672943ab.js"
+  ]
+}
